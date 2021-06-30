@@ -1,11 +1,10 @@
- <h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h1 align="center">I'm Sako - Software Engineer</h1>  
 
-<div> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkis1231&layout=compact&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarkis1231&show_icons=true&count_private=true&theme=algolia)
-</div>
+
 
 <!--
 **sarkis1231/sarkis1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
